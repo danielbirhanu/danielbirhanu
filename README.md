@@ -16,7 +16,5 @@
                                         
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=danielbirhanu&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=danielbirhanu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielbirhanu&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielbirhanu&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=danielbirhanu&theme=dark&hide_border=false)

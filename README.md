@@ -6,7 +6,7 @@
 
 
 ## 🌐 Socials:
-<a href="www.linkedin.com/in/danielbirhanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielbirhanu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/danielbirhanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielbirhanu" height="30" width="40" /></a>
 <a href="https://t.me/Lil_Dt" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="danielbirhanu" height="40" width="40" /></a>
 
 

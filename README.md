@@ -1,3 +1,3 @@
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielbirhanu&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=0,000000,130F40&hide_border=true" alt="daniel" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=danielbirhanu&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,&theme=algolia&show_icons=true)](https://github.com/danielbirhanu)

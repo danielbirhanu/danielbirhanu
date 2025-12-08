@@ -1,3 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielbirhanu&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=0,000000,130F40&hide_border=true" alt="daniel" />
-
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danielbirhanu&theme=2077" width='30%' height="150px"/>

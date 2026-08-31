@@ -1,1 +1,1 @@
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danielbirhanu&theme=2077" width='30%' height="150px"/>
+![My Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danielbirhanu&layout=compact&langs_count=8&theme=nightowl)
